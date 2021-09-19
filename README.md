@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ECG
 - 📫 How to reach me: mdmamrufiqbalsouhardo@gmail.com
-- 😄 Pronouns: Puntual
+- 😄 Pronouns: Punctual
 - ⚡ Fun fact: Anime <3
 
