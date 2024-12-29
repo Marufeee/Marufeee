@@ -76,10 +76,12 @@ Hi, I'm **Md. Maruf Iqbal**, a passionate engineer and researcher from Dhaka, Ba
 ---
 
 ## 📬 Contact
-- **✉️ Email**: [mdmarufiqbalsouhardo@gmail.com](mailto:mdmarufiqbalsouhardo@gmail.com)
-- **🔗 LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-md--maruf--iqbal-blue)](https://www.linkedin.com/in/md-maruf-iqbal)
-- **🐙 GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-Marufeee-black)](https://github.com/Marufeee)
-- **📘 Facebook**: [![Facebook](https://img.shields.io/badge/Facebook-maruf3001-blue)](https://www.facebook.com/maruf3001)
-- **🐦 Twitter**: [![Twitter](https://img.shields.io/badge/Twitter-Md33701027-blue)](https://x.com/Md33701027)
+<p align="center">
+  <a href="mailto:mdmarufiqbalsouhardo@gmail.com"><img src="https://img.shields.io/badge/Email-mdmarufiqbalsouhardo%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/md-maruf-iqbal"><img src="https://img.shields.io/badge/LinkedIn-md--maruf--iqbal-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/Marufeee"><img src="https://img.shields.io/badge/GitHub-Marufeee-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.facebook.com/maruf3001"><img src="https://img.shields.io/badge/Facebook-maruf3001-blue?style=for-the-badge&logo=facebook" alt="Facebook"></a>
+  <a href="https://x.com/Md33701027"><img src="https://img.shields.io/badge/Twitter-Md33701027-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+</p>
 
 Feel free to connect with me to discuss innovative ideas, research opportunities, or collaborative projects!
