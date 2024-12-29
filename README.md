@@ -77,9 +77,9 @@ Hi, I'm **Md. Maruf Iqbal**, a passionate engineer and researcher from Dhaka, Ba
 
 ## 📬 Contact
 - **✉️ Email**: [mdmarufiqbalsouhardo@gmail.com](mailto:mdmarufiqbalsouhardo@gmail.com)
-- **🔗 LinkedIn**: [md-maruf-iqbal](https://www.linkedin.com/in/md-maruf-iqbal)
-- **🐙 GitHub**: [Marufeee](https://github.com/Marufeee)
-- **📘 Facebook**: [maruf3001](https://www.facebook.com/maruf3001)
-- **🐦 Twitter**: [Md33701027](https://x.com/Md33701027)
+- **🔗 LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-md--maruf--iqbal-blue)](https://www.linkedin.com/in/md-maruf-iqbal)
+- **🐙 GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-Marufeee-black)](https://github.com/Marufeee)
+- **📘 Facebook**: [![Facebook](https://img.shields.io/badge/Facebook-maruf3001-blue)](https://www.facebook.com/maruf3001)
+- **🐦 Twitter**: [![Twitter](https://img.shields.io/badge/Twitter-Md33701027-blue)](https://x.com/Md33701027)
 
 Feel free to connect with me to discuss innovative ideas, research opportunities, or collaborative projects!
