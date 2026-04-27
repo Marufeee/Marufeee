@@ -1,87 +1,112 @@
-# 👋 About Me
-Hi, I'm **Md. Maruf Iqbal**, a passionate engineer and researcher from Dhaka, Bangladesh. My journey has been marked by an unwavering dedication to electronics, signal processing, and biomedical engineering. With professional experience in project management and hands-on expertise in hardware and software projects, I strive to contribute meaningfully to the world of technology and innovation.
+<h1 align="center">Hi 👋, I'm Md. Maruf Iqbal</h1>
+<h3 align="center">Electrical & Electronic Engineer | Data Science Enthusiast | AI & Biomedical Signal Processing</h3>
+
+<p align="center">
+  <a href="mailto:mdmarufiqbalsouhardo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/md-maruf-iqbal"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/Marufeee"><img src="https://img.shields.io/badge/GitHub-Marufeee-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 Electrical & Electronic Engineering graduate from AUST, Bangladesh  
+- 📍 Currently based in Sydney, Australia  
+- 📊 Pursuing **Master’s in Data Science**  
+- 🔬 Passionate about **AI, Signal Processing & Biomedical Engineering**  
+- 💼 Experienced in **Project Engineering & Industrial Operations**  
 
 ---
 
 ## 🧠 Research Interests
-- **Signal Processing**: Wavelet transform, neural networks, and denoising techniques.
-- **Biomedical Instrumentation**: Innovative healthcare solutions and ECG signal classification.
-- **Power Systems & Power Electronics**: Designing efficient systems and improving power factors.
+- Signal Processing (Wavelet Transform, Denoising)
+- Machine Learning & Neural Networks
+- Biomedical Signal Analysis (ECG)
+- Embedded Systems & Automation
+- Power Systems & Energy Optimization
 
 ---
 
-## 🎓 Education
-- **B.Sc. in Electrical and Electronics Engineering**  
-  Ahsanullah University of Science & Technology, Dhaka, Bangladesh (Apr. 2017 – Jan. 2022)  
-  **Thesis**: Signal processing using wavelet and neural networks for ECG signal classification.
+## 💻 Featured Projects
+
+### 🔬 ECG Signal Classification
+- Wavelet-based signal denoising  
+- Neural network classification  
+- Dataset: MIT-BIH Arrhythmia Database  
+
+### ⚡ Power Factor Improvement System
+- PIC microcontroller-based automation  
+- Capacitor bank switching logic  
+- Improved system efficiency  
+
+### 🔄 D Flip-Flop Architecture Analysis
+- Designed using Cadence Virtuoso  
+- Compared delay, power, and area  
+
+### 💧 Automatic Water Level Controller
+- Sensor-based automation system  
+- Relay-controlled motor switching  
 
 ---
 
-## 💻 Projects
-- **Analysis of ECG Signals in the Time-Frequency Domain** (2021–2022):  
-  - Used wavelet transform for ECG signal denoising.
-  - Measured MSE and SNR for optimal wavelet selection.
-  - Applied neural networks for ECG signal classification.
+## 🏢 Experience
 
-- **Microcontroller-Based Automatic Power Factor Improvement** (2021):  
-  - Utilized a PIC microcontroller with a capacitor bank.
-  - Implemented C++ code for efficient power factor enhancement.
+### 👨‍💼 Project Engineer  
+**Vector Consultants Limited** (Jun 2023 – Present)  
+- Managed end-to-end engineering projects  
+- Production planning, QC, logistics & budgeting  
+- Data-driven decision making for efficiency  
 
-- **Comparative Analysis of D-Flip Flop Architectures** (2021):  
-  - Conducted analysis using Cadence software.
-  - Evaluated performance metrics like area and delay.
-
-- **Automatic Water Level Management** (2018):  
-  - Designed a system using soil sensors and relays for motor control.
-  - Incorporated a switching circuit for performance optimization.
+### 📊 Executive  
+**Mahtab Flexible Printing Press** (Aug 2022 – May 2023)  
+- Financial tracking & supplier management  
+- Compliance and reporting  
 
 ---
 
-## 🏢 Research Experience
-- **Signal Processing Using Wavelets and Neural Networks** (ECG Signal Classification):  
-  - Explored methods to enhance ECG signal clarity and improve classification.
+## 🛠️ Skills
+
+### 💻 Programming
+`Python` `MATLAB` `C++`
+
+### ⚙️ Engineering Tools
+`LTspice` `Cadence Virtuoso` `Proteus` `MATLAB Simulink`
+
+### 📊 Data & AI
+`Signal Processing` `Machine Learning Basics` `Data Analysis`
+
+### 📋 Project Management
+`Planning` `Risk Management` `Execution`
 
 ---
 
-## 👨‍💼 Professional Experience
-- **Project Engineer**  
-  *Vector Consultants Limited, Dhaka, Bangladesh* (Jun. 2023 – Present):
-  - Developed project plans and managed resources.
-  - Optimized financial decisions through data analysis.
-  - Ensured timely project completion within budget constraints.
-
-- **Executive**  
-  *Mahtab Flexible Printing Press, Dhaka, Bangladesh* (Aug. 2022 – May 2023):
-  - Managed financial activities and market information.
-  - Conducted supplier surveys and compliance checks.
+## 📜 Certifications
+- 🎓 Google Project Management Certificate (Coursera)  
+- 📊 Data Analysis with Excel (Coursera Project Network)  
+- 🏆 Operational Efficiency Excellence – Vector Consultants Ltd.  
 
 ---
 
-## 🛠️ Technical Skills
-- **Programming**: Python, C++, MATLAB.
-- **Electrical Design**: LTspice, Cadence Virtuoso, Proteus.
-- **Project Management**: Resource planning, risk management, and execution.
-- **Tools**: Microsoft Office, MATLAB Simulink.
+## 🌱 Currently Learning
+- Machine Learning & AI Applications  
+- Data Science & Visualization  
+- Real-world AI systems  
 
 ---
 
-## 📜 Certifications, Honors & Awards
-- **Project Management** (Coursera):
-  - Capstone: Applying Project Management in the Real World (Oct. 2024).
-  - Agile Project Management (Oct. 2024).
-  - Project Planning: Putting It All Together (Oct. 2024).
-  - Foundations of Project Management (Oct. 2024).
-- **Full Stack Web Development & Freelancing Workshop** (AUST, 2017).
+## 📈 GitHub Stats
 
----
-
-## 📬 Contact
 <p align="center">
-  <a href="mailto:mdmarufiqbalsouhardo@gmail.com"><img src="https://img.shields.io/badge/Email-mdmarufiqbalsouhardo%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/md-maruf-iqbal"><img src="https://img.shields.io/badge/LinkedIn-md--maruf--iqbal-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/Marufeee"><img src="https://img.shields.io/badge/GitHub-Marufeee-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://www.facebook.com/maruf3001"><img src="https://img.shields.io/badge/Facebook-maruf3001-blue?style=for-the-badge&logo=facebook" alt="Facebook"></a>
-  <a href="https://x.com/Md33701027"><img src="https://img.shields.io/badge/Twitter-Md33701027-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marufeee&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marufeee&layout=compact&theme=tokyonight" />
 </p>
 
-Feel free to connect with me to discuss innovative ideas, research opportunities, or collaborative projects!
+---
+
+## 🤝 Let's Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/md-maruf-iqbal  
+- 📧 Email: mdmarufiqbalsouhardo@gmail.com  
+
+---
+
+⭐ *“Turning engineering ideas into intelligent real-world solutions.”*
