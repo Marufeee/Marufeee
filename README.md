@@ -52,7 +52,7 @@
 ## 🏢 Experience
 
 ### 👨‍💼 Project Engineer  
-**Vector Consultants Limited** (Jun 2023 – Present)  
+**Vector Consultants Limited** (Jun 2023 – Jan 2026)  
 - Managed end-to-end engineering projects  
 - Production planning, QC, logistics & budgeting  
 - Data-driven decision making for efficiency  
