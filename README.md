@@ -1,6 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Md.%20Maruf%20Iqbal&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20%E2%80%A2%20Electrical%20%26%20Electronic%20Engineering%20%E2%80%A2%20Biomedical%20Signals&descSize=16&descAlignY=58" alt="header" width="100%"/>
+  <img src="assets/header.svg" alt="Md. Maruf Iqbal" width="100%"/>
 </p>
 
 <p align="center">
@@ -229,5 +229,5 @@ status: open to opportunities
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="footer"/>
+  <img src="assets/footer.svg" width="100%" alt=""/>
 </p>

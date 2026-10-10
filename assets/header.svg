@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="230" viewBox="0 0 1200 230">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f2027"/><stop offset="0.5" stop-color="#203a43"/><stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="ecg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/><stop offset="0.5" stop-color="#38bdf8"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0H1200V185C1000 230 850 160 600 195S200 225 0 190Z" fill="url(#bg)"/>
+  <path id="beat" d="M0 168 H820 L840 168 L850 156 L860 176 L872 140 L884 186 L896 168 L912 168 L922 160 L932 168 H1200"
+        fill="none" stroke="url(#ecg)" stroke-width="2.5" stroke-linejoin="round" opacity="0.8"/>
+  <circle r="5" fill="#7dd3fc">
+    <animateMotion dur="4s" repeatCount="indefinite"><mpath xlink:href="#beat"/></animateMotion>
+  </circle>
+  <text x="600" y="88" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Md. Maruf Iqbal</text>
+  <text x="600" y="126" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#cbd5e1" letter-spacing="1">DATA SCIENCE  •  ELECTRICAL &amp; ELECTRONIC ENGINEERING  •  BIOMEDICAL SIGNALS</text>
+</svg>
